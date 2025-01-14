@@ -1,9 +1,12 @@
 package demo;
 
+import java.util.Scanner;
+
 public class Main {
 	public static void main(String[] args) {
-		Person person = new Person("Tran Hao", "07/09/2002", "30");
-		person.setAge("38");
-		System.out.println(person);
+		Scanner sc = new Scanner(System.in);
+		int a = sc.nextInt();
+		int b = sc.nextInt();
+		
 	}
 }
