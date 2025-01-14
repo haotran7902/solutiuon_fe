@@ -8,7 +8,6 @@ public class Main {
 	}
 	
 	public static int hieu(int a,int b){
-		// reuturn a*b;
 		a = a + b;
 		return a-b;
 	}
