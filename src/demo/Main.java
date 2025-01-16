@@ -17,5 +17,6 @@ public class Main {
 		int a = sc.nextInt();
 		int b = sc.nextInt();
 		
+		System.out.println(tinhTong(a, b));
 	}
 }
