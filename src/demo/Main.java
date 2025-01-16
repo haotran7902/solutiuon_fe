@@ -18,5 +18,6 @@ public class Main {
 		int b = sc.nextInt();
 		
 		System.out.println(tinhTong(a, b));
+		System.out.println(hieu(a, b));
 	}
 }
